@@ -28,4 +28,5 @@ python bot.py
 Рекомендується запускати бот на сервері або через планувальник (наприклад systemd або cron).
 7914517419:AAHMV6VpW6u6oAGcSy9i0cRM1Dro8_WDmdk
 
-python bot.py
+python main.py
+-1001964846494
