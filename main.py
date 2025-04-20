@@ -146,7 +146,7 @@ async def send_daily_message8(application: Application):
 async def main():
     # Створення додатку бота
     keep_alive()
-    application = Application.builder().token("7914517419:AAHMV6VpW6u6oAGcSy9i0cRM1Dro8_WDmdk").build()
+    application = Application.builder().token("7688368621:AAFoSxcstDmbp9hhuxbDk2bvkS01KXrsz2U").build()
 
     scheduler = AsyncIOScheduler(timezone="Europe/Kyiv")
  
